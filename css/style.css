@@ -1,0 +1,15 @@
+*{
+	background-color: cornflowerblue;
+}
+.alert{
+	margin: 32px 0;
+}
+
+.card{
+	margin: 16px 0;	
+}
+
+.current{
+	font-weight: 700;
+	color: black;
+}
